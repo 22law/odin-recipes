@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #B0E0E6;
+    color: #778899;
+    text-align: center;
+}
+
+ul {
+    background-color: #00FF7F;
+}
+
+ol {
+    background-color: #F08080;
+}
+
+.wide-img {
+    height: 350px;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fish {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ham {
+    font-size: 32px;
+    font-weight: 500;
+}
