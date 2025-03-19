@@ -6,6 +6,11 @@ h1 {
     background-color: #B0E0E6;
     color: #778899;
     text-align: center;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    width: 400px;
+    padding: 16px;
+    border: 2px solid black;
 }
 
 ul {
